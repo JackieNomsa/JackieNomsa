@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JackieNomsa
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning python
+- 👀 I’m interested in cyber security
+- 🌱 I’m currently learning python, netwoking
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me use my git portfolio
+- 📫 You can reach me using my github portfolio
 
 <!---
 JackieNomsa/JackieNomsa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
