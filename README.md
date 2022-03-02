@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JackieNomsa
-- 👀 I’m interested in cyber security
-- 🌱 I’m currently learning python, netwoking
-- 💞️ I’m looking to collaborate on anything
+- 👀 I’m interested in Web Develpment
+- 🌱 I’m currently learning Java, netwoking
+- 💞️ I’m looking to collaborate on CS projects and web dev
 - 📫 You can reach me using my github portfolio
 
 <!---
