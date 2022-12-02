@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JackieNomsa
-- 👀 I’m interested in Web Develpment
-- 🌱 I’m currently learning Java, netwoking
-- 💞️ I’m looking to collaborate on CS projects and web dev
+- 👀 I’m interested in Cyber Security, DevOps and backend Development
+- 🌱 I’m currently learning Java, netwoking, API testing
+- 💞️ I’m looking to collaborate on anything that will better the world
 - 📫 You can reach me using my profile https://jackienomsa.github.io/my-react-portfolio/
 
 <!---
