@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JackieNomsa
-- 👀 I’m interested in Cyber Security, DevOps and Full stack Development
-- 🌱 I’m currently learning Java, netwoking, API testing
-- 💞️ I’m looking to collaborate on anything that will better the world
+- 👀 I’m interested in Full stack appications development and penetration testing
+- 🌱 I’m currently learning Java, Springboot and Angular
+- 💞️ I’m looking to collaborate on API testing and large application development
 - 📫 You can reach me using my profile https://jackienomsa.github.io/my-react-portfolio/
 
 <!---
